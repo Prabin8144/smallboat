@@ -1,0 +1,201 @@
+{
+   "allProduct": [{
+    "id":1,
+        "Name": "boAt Immortal 1300",
+        "ActualPrice": 7990,
+        "LatestPrice": 3499,
+        "Reviews": 43,
+        "Rating": 5.78,
+        "Img_url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main2_33ed4e4f-8ef4-4c8a-a0c7-68216dfafa4a_300x.png?v=1643477993",
+        "Category": "gaming"
+      },{
+        "id":2,
+        "Name": "boAt Immortal 1000D",
+        "ActualPrice": 5990,
+        "LatestPrice": 2999,
+        "Reviews": 433,
+        "Rating": 5.78,
+        "Img_url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/IM1300_main_2_300x.png?v=1632715015",
+        "Category": "gaming"
+      },{
+        "id":3,
+        "Name": "boAt Immortal 400",
+        "ActualPrice": 11999,
+        "LatestPrice": 4399,
+        "Reviews": 433,
+        "Rating": 2.8,
+        "Img_url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/2_f3aa2756-01f3-4e39-80bc-7b4f6551c7aa_300x.png?v=1625748159",
+        "Category": "gaming"
+      },{
+        "id":4,
+        "Name": "boAt Immortal 200",
+        "ActualPrice": 6990,
+        "LatestPrice": 4399,
+        "Reviews": 145,
+        "Rating": 1.87,
+        "Img_url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main2-700_300x.png?v=1643632679",
+        "Category": "gaming"
+      },{
+        "id":5,
+        "Name": "boAt Immortal 700",
+        "ActualPrice": 6990,
+        "LatestPrice": 5124,
+        "Reviews": 394,
+        "Rating": 4.63,
+        "Img_url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main-bl_300x.png?v=1625748090",
+        "Category": "gaming"
+      },{
+        "id":6,
+        "Name": "boAt Immortal 100",
+        "ActualPrice": 2610,
+        "LatestPrice": 2124,
+        "Reviews": 104,
+        "Rating": 4.13,
+        "Img_url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/7499af44-9d7a-489c-80f0-51f7799289e4_300x.png?v=1625045491",
+        "Category": "gaming"
+      },{
+        "id":7,
+        "Name": "boAt Watch Xtend",
+        "ActualPrice": 7990,
+        "LatestPrice": 3499,
+        "Reviews": 34,
+        "Rating": 4,
+        "Img_url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main2_529ecf…",
+        "Category": "watch"
+      },{
+        "id":8,
+        "Name": "boAt Storm",
+        "ActualPrice": 5990,
+        "LatestPrice": 2999,
+        "Reviews": 757,
+        "Rating": 4.79,
+        "Img_url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/e7910a39-186…",
+        "Category": "watch"
+      },{
+        "id":9,
+        "Name": "boAt Watch Iris",
+        "ActualPrice": 11999,
+        "LatestPrice": 4399,
+        "Reviews": 34,
+        "Rating": 4.68,
+        "Img_url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main-blue_d6…",
+        "Category": "watch"
+      },{
+        "id":10,
+        "Name": "boAt Watch‌ Vertex",
+        "ActualPrice": 6990,
+        "LatestPrice": 2499,
+        "Reviews": 2,
+        "Rating": 5,
+        "Img_url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main_red_c23…",
+        "Category": "watch"
+      },{
+        "id":11,
+        "Name": "boAt Watch Flash",
+        "ActualPrice": 699,
+        "LatestPrice": 442,
+        "Reviews": 7,
+        "Rating": 5,
+        "Img_url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/9da7e1ae-89f…",
+        "Category": "watch"
+      },{
+        "id":12,
+        "Name": "boAt Watch Mystiq",
+        "ActualPrice": 1621,
+        "LatestPrice": 1523,
+        "Reviews": 127,
+        "Rating": 2.78,
+        "Img_url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/Green_4_300x…",
+        "Category": "watch"
+      },{
+        "id":13,
+        "Name": "boAt Airdopes 131 - Wireless Earbuds",
+        "ActualPrice": 5690,
+        "LatestPrice": 3499,
+        "Reviews": 328,
+        "Rating": 5.26,
+        "Img_url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/32011675-2ad…",
+        "Category": "airdopes"
+      },{
+        "id":14,
+        "Name": "boAt Airdopes 121 v2",
+        "ActualPrice": 1200,
+        "LatestPrice": 999,
+        "Reviews": 828,
+        "Rating": 5.26,
+        "Img_url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/airdopes-121…",
+        "Category": "airdopes"
+      },{
+        "id":15,
+        "Name": "Airdopes 115",
+        "ActualPrice": 2399,
+        "LatestPrice": 1399,
+        "Reviews": 408,
+        "Rating": 2.16,
+        "Img_url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/115-main1_30…",
+        "Category": "airdopes"
+      },{
+        "id":16,
+        "Name": "boAt Airdopes 141",
+        "ActualPrice": 5990,
+        "LatestPrice": 2499,
+        "Reviews": 234,
+        "Rating": 4.87,
+        "Img_url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/grey_300x.pn…",
+        "Category": "airdopes"
+      },{
+        "id":17,
+        "Name": "boAt Airdopes 402 - Wireless Earbuds",
+        "ActualPrice": 1990,
+        "LatestPrice": 1799,
+        "Reviews": 534,
+        "Rating": 3.87,
+        "Img_url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/402-main-img…",
+        "Category": "airdopes"
+      },{
+        "id":18,
+        "Name": "boAt Airdopes 621",
+        "ActualPrice": 3430,
+        "LatestPrice": 2858,
+        "Reviews": 121,
+        "Rating": 1.01,
+        "Img_url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main-img_AD6…",
+        "Category": "airdopes"
+      },{
+        "id":19,
+        "Name": "boAt Rockerz 235 V2",
+        "ActualPrice": 1690,
+        "LatestPrice": 1499,
+        "Reviews": 428,
+        "Rating": 3.56,
+        "Img_url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/ed46e58c-964…",
+        "Category": "earphone"
+      },{
+        "id":20,
+        "Name": "boAt Rockerz 450",
+        "ActualPrice": 5399,
+        "LatestPrice": 4348,
+        "Reviews": 108,
+        "Rating": 2.96,
+        "Img_url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/7499af44-9d7…",
+        "Category": "earphone"
+      },{
+        "id":21,
+        "Name": "boAt Rockerz 330",
+        "ActualPrice": 8990,
+        "LatestPrice": 6499,
+        "Reviews": 308,
+        "Rating": 5.96,
+        "Img_url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/0cfa4417-021…",
+        "Category": "earphone"
+      },{
+        "id":22,
+        "Name": "Trebel Rockerz 255 Pro+",
+        "ActualPrice": 2990,
+        "LatestPrice": 1999,
+        "Reviews": 308,
+        "Rating": 3.96,
+        "Img_url": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/0cfa4417-021…",
+        "Category": "earphone"
+      }]
+}
