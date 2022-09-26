@@ -60,7 +60,7 @@ export const NewLaunches = () => {
 
         async function getData() {
             try {
-                const arr = await axios.get(`https://babita-boat.herokuapp.com/newlaunches?page=${page}&pagesize=1`)
+                const arr = await axios.get(`https://boatbackend.herokuapp.com/newlaunches?page=${page}&pagesize=1`)
                 setWatchData(arr.data)
 
             } catch (err) {

@@ -62,7 +62,7 @@ export const Gaming = () => {
 
         async function getData() {
             try {
-                const arr = await axios.get(`https://babita-boat.herokuapp.com/gaming?page=${page}&pagesize=${pagesize}`)
+                const arr = await axios.get(`https://boatbackend.herokuapp.com/gaming?page=${page}&pagesize=${pagesize}`)
                 setWatchData(arr.data)
 
             } catch (err) {

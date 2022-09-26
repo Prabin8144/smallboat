@@ -63,7 +63,7 @@ export const Wireless = () => {
 
         async function getData() {
             try {
-                const arr = await axios.get(`https://babita-boat.herokuapp.com/wierless?page=${page}&pagesize=${pagesize}`)
+                const arr = await axios.get(`https://boatbackend.herokuapp.com/wierless?page=${page}&pagesize=${pagesize}`)
                 setWatchData(arr.data)
 
             } catch (err) {

@@ -67,7 +67,7 @@ export const SmartWatch = () => {
 
         async function getData() {
             try {
-                const arr = await axios.get(`https://babita-boat.herokuapp.com/topwatch?page=${page}&pagesize=${pagesize}`)
+                const arr = await axios.get(`https://boatbackend.herokuapp.com/topwatch?page=${page}&pagesize=${pagesize}`)
                 setWatchData(arr.data)
 
             } catch (err) {
